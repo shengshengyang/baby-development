@@ -1,3 +1,6 @@
-[submodule "frond-end"]
+[submodule "backend-end"]
 	path = backend-end
 	url = https://github.com/shengshengyang/baby-development-backend.git
+[submodule "front-end"]
+	path = front-end
+	url = https://github.com/shengshengyang/baby-development-frontend.git
